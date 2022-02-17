@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48541be8f4a64e5d8a8dc9615478b4af, type: 3}
+  m_Name: GameSettingsInstaller
+  m_EditorClassIdentifier: 
+  gameSettings:
+    _allPlayers: 0100000002000000
+    _cellCount: 24
+    _initPlayerMoney: 2500
+    _baseReward: 200
+    _cellCost: 300
+    _rewardSettings:
+    - Reward: 200
+      Probability: 0.5
+    - Reward: 250
+      Probability: 0.1
+    - Reward: 150
+      Probability: 0.1
+    - Reward: 300
+      Probability: 0.1
+    - Reward: 100
+      Probability: 0.1
+    - Reward: 350
+      Probability: 0.05
+    - Reward: 50
+      Probability: 0.05
+    _cellTypes: 000000000300000003000000030000000300000003000000020000000300000003000000030000000300000003000000020000000300000003000000030000000300000003000000020000000300000003000000030000000300000003000000

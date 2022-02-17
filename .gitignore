@@ -1,0 +1,8 @@
+/JoyMonopoly/Library
+/JoyMonopoly/Logs
+/JoyMonopoly/obj
+/JoyMonopoly/Temp
+/JoyMonopoly/UserSettings
+/JoyMonopoly/*.csproj
+/JoyMonopoly/*.sln
+/JoyMonopoly/.idea
